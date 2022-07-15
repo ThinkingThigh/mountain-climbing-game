@@ -1,5 +1,5 @@
 # mountain-climbing-game
-# 登山游戏
+登山游戏
 A mountaineering game
 Enjoy it !  
 
